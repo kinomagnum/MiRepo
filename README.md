@@ -70,13 +70,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <div align="center">
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=andrey&theme=neon-palenight&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat&excludeDaysLabel=2AEB00)](https://git.io/streak-stats)
 
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kinomagnum&theme=dark&hide_border=true&border_radius=5.3&date_format=j%20M%5B%20Y%5D&exclude_days=Mon)](https://git.io/streak-stats)
 
 </div>
 
