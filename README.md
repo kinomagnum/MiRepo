@@ -40,7 +40,11 @@
 </div>
 
 <div align="center">
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
+I am a Full Stack Developer 
+<a href="https://github.com/kinomagnum/miRepo">
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+</a> 
+from Russia.
 </div>
 
 ---
