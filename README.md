@@ -63,15 +63,19 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>
+  <a><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/></a>
 
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=andrey&theme=neon-palenight&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat&excludeDaysLabel=2AEB00)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=andrey&theme=neon-palenight&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat&excludeDaysLabel=2AEB00)](https://github.com/kinomagnum/miRepo)
 
 
 </div>
 
+<div id="badges" align="center">
+<a>
+![Gitea Forks](https://img.shields.io/gitea/forks/kinomagnum/MiRepo?gitea_url=https%3A%2F%2Fgithub.com%2Fkinomagnum%2FmiRepo&style=for-the-badge&logoColor=%23FF0000&color=%23FF0000%09&link=https%3A%2F%2Fgithub.com%2Fkinomagnum%2FmiRepo)(https://github.com/kinomagnum/miRepo)
+</a>
