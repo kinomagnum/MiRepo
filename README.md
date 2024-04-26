@@ -21,7 +21,7 @@
 </div>
 
 <div id="badges" align="center">
-  <img src="https://komarev.com/ghpvc/?username=KINOMAGNUM&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=KINOMAGNUM&style=flat-square&color=blue" alt="kinomagnum"/>
 </div>
 
 
@@ -35,6 +35,8 @@
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXgwaG9tem9jNnh5c2FkODd5dHdvaGoyZmZoOTh6ZGk1ZWhlb3RuNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rJsMvyk7AHHiW9qKLM/giphy.gif" width="600" height="580" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p>
 </div>
 
 <div align="center">
@@ -54,7 +56,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ---
 
 <div align="center">
-### :hammer_and_wrench: Languages and Tools :
+   :hammer_and_wrench: Languages and Tools :
 
   <a href="https://github.com/kinomagnum/miRepo"><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/></a>&nbsp;  
   <a href="https://github.com/kinomagnum/miRepo"><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/></a>&nbsp;
