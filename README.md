@@ -75,5 +75,3 @@ from Russia.
 </div>
 
 ---
-
-
