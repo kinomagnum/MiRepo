@@ -75,3 +75,4 @@ from Russia.
 </div>
 
 ---
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=kinomagnum&theme=dark&date_format=j%20M%5B%20Y%5D&exclude_days=Mon%2CTue%2CWed%2CThu%2CFri&card_width=497" alt="GitHub Streak" /></a>
