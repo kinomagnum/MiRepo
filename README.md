@@ -67,12 +67,6 @@ from Russia.
   <a href="https://github.com/kinomagnum/miRepo"><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/></a>
   <a href="https://github.com/kinomagnum/miRepo"><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/></a>
 </div>
-
-<div align="center">
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kinomagnum&theme=dark&background=000000)](https://github.com/kinomagnum/miRepo)
-
-</div>
-
 ---
+
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=kinomagnum&theme=dark&date_format=j%20M%5B%20Y%5D&exclude_days=Mon%2CTue%2CWed%2CThu%2CFri&card_width=497" alt="GitHub Streak" /></a>
